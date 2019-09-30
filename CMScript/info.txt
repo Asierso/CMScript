@@ -1,0 +1,6 @@
+Programa desarrollado por Asierso inc.
+IDE (ide.exe)
+PROTOMP (main.exe)
+
+Requisitos
+SKU: Net Framework 4.0+
